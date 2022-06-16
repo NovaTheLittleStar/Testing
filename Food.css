@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+.Main-food{
+    background-color:#F2D388;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding:0 100px;
+}
+.Food-contant{
+    width: 40%;
+    height: 400px;
+}
+.Food-name{
+    background-color: #F2D388;
+    width: 50%;
+    padding-top: 80px ;
+}
